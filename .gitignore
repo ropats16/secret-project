@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#private docs
+Using AI to Create Personalized Email Signature Visuals.pdf
+docs/GUIDE.md
